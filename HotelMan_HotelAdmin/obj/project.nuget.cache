@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "P9WNcrwveVgj5U2vJYiHWWOCCMj6vbXX1zgkvqEB88+FaFPeiyelT6xUMXrhcYjK1BQFF7ymKcie+t2YIT8RmA==",
+  "success": true,
+  "projectFilePath": "/Users/bobby/Desktop/Hotel_Manage/HotelMan_HotelAdmin/HotelMan_HotelAdmin/HotelMan_HotelAdmin.csproj",
+  "expectedPackageFiles": [
+    "/Users/bobby/.nuget/packages/amazon.lambda.apigatewayevents/2.7.0/amazon.lambda.apigatewayevents.2.7.0.nupkg.sha512",
+    "/Users/bobby/.nuget/packages/amazon.lambda.core/2.2.0/amazon.lambda.core.2.2.0.nupkg.sha512",
+    "/Users/bobby/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.4.0/amazon.lambda.serialization.systemtextjson.2.4.0.nupkg.sha512",
+    "/Users/bobby/.nuget/packages/awssdk.core/3.7.300/awssdk.core.3.7.300.nupkg.sha512",
+    "/Users/bobby/.nuget/packages/awssdk.dynamodbv2/3.7.300/awssdk.dynamodbv2.3.7.300.nupkg.sha512",
+    "/Users/bobby/.nuget/packages/awssdk.s3/3.7.300/awssdk.s3.3.7.300.nupkg.sha512",
+    "/Users/bobby/.nuget/packages/httpmultipartparser/8.2.0/httpmultipartparser.8.2.0.nupkg.sha512",
+    "/Users/bobby/.nuget/packages/microsoft.identitymodel.abstractions/7.0.3/microsoft.identitymodel.abstractions.7.0.3.nupkg.sha512",
+    "/Users/bobby/.nuget/packages/microsoft.identitymodel.jsonwebtokens/7.0.3/microsoft.identitymodel.jsonwebtokens.7.0.3.nupkg.sha512",
+    "/Users/bobby/.nuget/packages/microsoft.identitymodel.logging/7.0.3/microsoft.identitymodel.logging.7.0.3.nupkg.sha512",
+    "/Users/bobby/.nuget/packages/microsoft.identitymodel.tokens/7.0.3/microsoft.identitymodel.tokens.7.0.3.nupkg.sha512",
+    "/Users/bobby/.nuget/packages/microsoft.io.recyclablememorystream/2.2.1/microsoft.io.recyclablememorystream.2.2.1.nupkg.sha512",
+    "/Users/bobby/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/bobby/.nuget/packages/system.identitymodel.tokens.jwt/7.0.3/system.identitymodel.tokens.jwt.7.0.3.nupkg.sha512",
+    "/Users/bobby/.nuget/packages/microsoft.netcore.app.ref/6.0.20/microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "/Users/bobby/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.20/microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

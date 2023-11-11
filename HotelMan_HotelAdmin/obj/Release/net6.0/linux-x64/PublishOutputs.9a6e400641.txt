@@ -1,0 +1,7 @@
+/Users/bobby/Desktop/Hotel_Manage/HotelMan_HotelAdmin/HotelMan_HotelAdmin/bin/Release/net6.0/publish/HotelMan_HotelAdmin.dll
+/Users/bobby/Desktop/Hotel_Manage/HotelMan_HotelAdmin/HotelMan_HotelAdmin/bin/Release/net6.0/publish/HotelMan_HotelAdmin.deps.json
+/Users/bobby/Desktop/Hotel_Manage/HotelMan_HotelAdmin/HotelMan_HotelAdmin/bin/Release/net6.0/publish/HotelMan_HotelAdmin.runtimeconfig.json
+/Users/bobby/Desktop/Hotel_Manage/HotelMan_HotelAdmin/HotelMan_HotelAdmin/bin/Release/net6.0/publish/HotelMan_HotelAdmin.pdb
+/Users/bobby/Desktop/Hotel_Manage/HotelMan_HotelAdmin/HotelMan_HotelAdmin/bin/Release/net6.0/publish/Amazon.Lambda.APIGatewayEvents.dll
+/Users/bobby/Desktop/Hotel_Manage/HotelMan_HotelAdmin/HotelMan_HotelAdmin/bin/Release/net6.0/publish/Amazon.Lambda.Core.dll
+/Users/bobby/Desktop/Hotel_Manage/HotelMan_HotelAdmin/HotelMan_HotelAdmin/bin/Release/net6.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll

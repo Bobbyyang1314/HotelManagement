@@ -1,0 +1,12 @@
+/Users/bobby/Desktop/Hotel_Manage/HotelMan_HotelAdmin/HotelMan_HotelAdmin/bin/Debug/net6.0/HotelMan_HotelAdmin.deps.json
+/Users/bobby/Desktop/Hotel_Manage/HotelMan_HotelAdmin/HotelMan_HotelAdmin/bin/Debug/net6.0/HotelMan_HotelAdmin.dll
+/Users/bobby/Desktop/Hotel_Manage/HotelMan_HotelAdmin/HotelMan_HotelAdmin/bin/Debug/net6.0/HotelMan_HotelAdmin.pdb
+/Users/bobby/Desktop/Hotel_Manage/HotelMan_HotelAdmin/HotelMan_HotelAdmin/obj/Debug/net6.0/HotelMan_HotelAdmin.csproj.AssemblyReference.cache
+/Users/bobby/Desktop/Hotel_Manage/HotelMan_HotelAdmin/HotelMan_HotelAdmin/obj/Debug/net6.0/HotelMan_HotelAdmin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bobby/Desktop/Hotel_Manage/HotelMan_HotelAdmin/HotelMan_HotelAdmin/obj/Debug/net6.0/HotelMan_HotelAdmin.AssemblyInfoInputs.cache
+/Users/bobby/Desktop/Hotel_Manage/HotelMan_HotelAdmin/HotelMan_HotelAdmin/obj/Debug/net6.0/HotelMan_HotelAdmin.AssemblyInfo.cs
+/Users/bobby/Desktop/Hotel_Manage/HotelMan_HotelAdmin/HotelMan_HotelAdmin/obj/Debug/net6.0/HotelMan_HotelAdmin.csproj.CoreCompileInputs.cache
+/Users/bobby/Desktop/Hotel_Manage/HotelMan_HotelAdmin/HotelMan_HotelAdmin/obj/Debug/net6.0/HotelMan_HotelAdmin.dll
+/Users/bobby/Desktop/Hotel_Manage/HotelMan_HotelAdmin/HotelMan_HotelAdmin/obj/Debug/net6.0/refint/HotelMan_HotelAdmin.dll
+/Users/bobby/Desktop/Hotel_Manage/HotelMan_HotelAdmin/HotelMan_HotelAdmin/obj/Debug/net6.0/HotelMan_HotelAdmin.pdb
+/Users/bobby/Desktop/Hotel_Manage/HotelMan_HotelAdmin/HotelMan_HotelAdmin/obj/Debug/net6.0/ref/HotelMan_HotelAdmin.dll

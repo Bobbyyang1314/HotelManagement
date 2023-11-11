@@ -1,0 +1,101 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/bobby/Desktop/Hotel_Manage/HotelMan_HotelAdmin/HotelMan_HotelAdmin/HotelMan_HotelAdmin.csproj": {}
+  },
+  "projects": {
+    "/Users/bobby/Desktop/Hotel_Manage/HotelMan_HotelAdmin/HotelMan_HotelAdmin/HotelMan_HotelAdmin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bobby/Desktop/Hotel_Manage/HotelMan_HotelAdmin/HotelMan_HotelAdmin/HotelMan_HotelAdmin.csproj",
+        "projectName": "HotelMan_HotelAdmin",
+        "projectPath": "/Users/bobby/Desktop/Hotel_Manage/HotelMan_HotelAdmin/HotelMan_HotelAdmin/HotelMan_HotelAdmin.csproj",
+        "packagesPath": "/Users/bobby/.nuget/packages/",
+        "outputPath": "/Users/bobby/Desktop/Hotel_Manage/HotelMan_HotelAdmin/HotelMan_HotelAdmin/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/bobby/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AWSSDK.DynamoDBv2": {
+              "target": "Package",
+              "version": "[3.7.300, )"
+            },
+            "AWSSDK.S3": {
+              "target": "Package",
+              "version": "[3.7.300, )"
+            },
+            "Amazon.Lambda.APIGatewayEvents": {
+              "target": "Package",
+              "version": "[2.7.0, )"
+            },
+            "Amazon.Lambda.Core": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Amazon.Lambda.Serialization.SystemTextJson": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "HttpMultipartParser": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.20, 6.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.20, 6.0.20]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/bobby/.dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
